@@ -17,3 +17,10 @@ Modify server.ts file
 Step 4:
 Create a Demo Controller file
 ./src/modules/demo/..
+
+
+## Resource
+- https://nodejs.org/docs/latest-v18.x/api/cluster.html
+
+## Note
+- Works only in Linux and Mac machine.
